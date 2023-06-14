@@ -1,3 +1,5 @@
+//atividade de calcular a hipotenusa
+
 import java.util.Scanner;
 
 public class Atividade4{
