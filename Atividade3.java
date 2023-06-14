@@ -1,3 +1,7 @@
+
+//esse meu codigo coleta dados de um candidato e aplica para bolsa de uma faculdade, a operação que eu usei aqui foi valor da mensalidade/numerodefamiliares
+
+
 import java.util.Scanner;
 
 public class Atividade4{
