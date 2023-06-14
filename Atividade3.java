@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Atividade4{
+public class Atividade3{
      public static void main(String[] args) throws Exception{
 
          Scanner teclado = new Scanner(System.in);
