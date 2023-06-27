@@ -1,6 +1,9 @@
+
+//atividade6.n1
+
 import java.util.Scanner;
 
-public class Atividade5{ 
+public class Atividade6{ 
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
